@@ -38,7 +38,7 @@ const CATEGORIES: Category[] = [
   }
 ];
 
-// Mock Data for Featured Articles (SEO Optimized with specific keywords)
+// Mock Data for Featured Articles
 const FEATURED_ARTICLES: Article[] = [
   {
     id: '1',
